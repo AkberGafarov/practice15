@@ -1,0 +1,8 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "serve": "echo 'Serving app...'"
+  }
+}
